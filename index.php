@@ -9,3 +9,5 @@
 	exit;
 ?>
 Something is wrong with the XAMPP installation :-(
+
+<h1>hola Mundo</h1>
